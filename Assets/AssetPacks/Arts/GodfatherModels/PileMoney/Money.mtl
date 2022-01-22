@@ -1,0 +1,61 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_1_Dollar_Bill
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.725490 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/M_1_Dollar_Bill.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Money_Stack
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.725490 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/Money_Stack.jpg
+
+newmtl M_1_Dollar_Band
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.694118 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/M_1_Dollar_Band.jpg
+
+newmtl M_50_Dollar_Bill
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.725490 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/M_50_Dollar_Bill.jpg
+
+newmtl Brown_Paper
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.482353 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/Brown_Paper.jpg
+
+newmtl Hundred_Dollar_Bill
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.725490 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/Hundred_Dollar_Bill.jpg
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl two_dollar_bill_1000
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.729412 0.705882
+Ks 0.330000 0.330000 0.330000
+map_Kd Money/two_dollar_bill_1000.jpg
+
